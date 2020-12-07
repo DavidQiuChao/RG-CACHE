@@ -10,15 +10,19 @@ Run the command "python main.py -i path_to_data", where "path_to_data" is the di
 
 The testing data is from the project of LIME[2].
 
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "450" height = "450" alt="pic1" align=left />
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "450" height = "450" alt="pic2" align=left />
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "450" height = "450" alt="pic3" align=left />
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "450" height = "450" alt="pic4" align=left />    
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "450" height = "450" alt="pic1"/>
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "450" height = "450" alt="pic2"/>
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "450" height = "450" alt="pic3"/>
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "450" height = "450" alt="pic4"/>    
 
 
 
-Reference
----------
+
+
+
+
+
+##Reference
 
 [1] K. He, J. Sun, and X. Tang, “Guided image filtering,” in Proc. European Conference on Computer Vision (ECCV), Greece, Sep. 2010, pp. 1–14.
 
