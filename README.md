@@ -12,13 +12,11 @@ Run the command "python main.py -i path_to_data", where "path_to_data" is the di
 
 The testing data is from the project of LIME[2].
 
-![pic1](https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg)
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "200" height = "300" alt="" align=left />
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "200" height = "300" alt="" align=right />
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "200" height = "300" alt="" align=left />
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "200" height = "300" alt="" align=right />
 
-![pic2](https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg)
-
-![pic3](https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg)
-
-![pic4](https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg)
 
 
 
