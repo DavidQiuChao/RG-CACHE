@@ -2,8 +2,6 @@
 
 This project implement the code of paper "Reflectance-Guided,Contrast-Accumulated Histogram Equalization". We use guided-filter[1] to get illumination instead of the relative total variation used in the paper.
 
-
-
 ## Usage
 
 Run the command "python main.py -i path_to_data", where "path_to_data" is the directory contains pictures to processing.
@@ -13,12 +11,10 @@ Run the command "python main.py -i path_to_data", where "path_to_data" is the di
 The testing data is from the project of LIME[2].
 
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "200" height = "300" alt="" align=left />
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "200" height = "300" alt="" align=right />
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "200" height = "300" alt="" align=left />
+
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "200" height = "300" alt="" align=left />
-<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "200" height = "300" alt="" align=right />
-
-
-
+<img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "200" height = "300" alt="" align=left />
 
 ## Reference
 
