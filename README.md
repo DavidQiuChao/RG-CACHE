@@ -17,7 +17,8 @@ The testing data is from the project of LIME[2].
 
 
 
-## Reference
+Reference
+---------
 
 [1] K. He, J. Sun, and X. Tang, “Guided image filtering,” in Proc. European Conference on Computer Vision (ECCV), Greece, Sep. 2010, pp. 1–14.
 
