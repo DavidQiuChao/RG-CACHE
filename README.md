@@ -1,6 +1,6 @@
 # RG-CACHE
 
-This project implement the code of paper "Reflectance-Guided,Contrast-Accumulated Histogram Equalization". We use guided-filter[1] to get illumination instead of the relative total variation used in the paper.
+This project implemented the code of paper "Reflectance-Guided,Contrast-Accumulated Histogram Equalization". Guided-filter[1] was used to get illumination instead of the relative total variation described in the paper.
 
 ## Usage
 
@@ -8,7 +8,7 @@ Run the command "python main.py -i path_to_data", where "path_to_data" is the di
 
 ## Results
 
-The testing data is from the project of LIME[2].
+Testing datas are from the project of LIME[2].
 
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "300" height = "300" alt="pic1"/> <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "300" height = "300" alt="pic2"/>
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "300" height = "300" alt="pic3"/> <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "300" height = "300" alt="pic4"/>    
