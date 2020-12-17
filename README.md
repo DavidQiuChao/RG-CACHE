@@ -11,7 +11,7 @@ Testing datas are from the project of LIME[2].
 
 
 input image|enhance result
-__----|----
+----|----
 ![2in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/2.bmp)|![2out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/2___res.jpg)
 
 ![3in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/3.bmp)|![3out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/3_res.jpg)
