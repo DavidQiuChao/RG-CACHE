@@ -9,6 +9,16 @@ Run the command "python main.py -i path_to_data", where "path_to_data" is the di
 ## Results
 
 Testing datas are from the project of LIME[2].
+input_image|enhance_result
+__----|----
+![2in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.bmp)|![2out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/2___res.jpg)
+
+![3in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.bmp)|![3out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/3_res.jpg)
+
+![5in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.bmp)|![5out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/5_res.jpg)
+
+![7in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.bmp)|![7out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/7_res.jpg)
+
 
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/7.jpg" width = "300" height = "300" alt="pic1"/> <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/3.jpg" width = "300" height = "300" alt="pic2"/>
 <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/2.jpg" width = "300" height = "300" alt="pic3"/> <img src="https://github.com/DavidQiuChao/RG-CACHE/blob/main/5.jpg" width = "300" height = "300" alt="pic4"/>    
