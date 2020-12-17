@@ -7,10 +7,10 @@ This project implemented the code of paper "Reflectance-Guided,Contrast-Accumula
 Run the command "python main.py -i path_to_data", where "path_to_data" is the directory contains pictures to processing.
 
 ## Results
-
 Testing datas are from the project of LIME[2].
 
-input_image|enhance_result
+
+input image|enhance result
 __----|----
 ![2in](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/2.bmp)|![2out](https://github.com/DavidQiuChao/RG-CACHE/blob/main/figs/2___res.jpg)
 
